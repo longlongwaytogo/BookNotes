@@ -1,2 +1,2 @@
-# ReadBookNotes
+# BookNotes
 My read book notes 
